@@ -141,7 +141,7 @@ li {
     width: 44px;
     height: 44px;
     border-radius: 50%;
-    color: #afb1b8;
+    fill: currentColor;
 }
 
 .social-icon-item:not(:last-child) {
